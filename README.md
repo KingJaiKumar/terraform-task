@@ -1,8 +1,11 @@
 - Switch directory to appbuild.
 
 - Run command:
+- 
 ``` terraform init ```
+- 
 ``` terraform plan ```
+- 
 ``` terraform apply ```
 
 Following resources are created:
